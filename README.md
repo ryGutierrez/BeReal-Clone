@@ -2,7 +2,7 @@
 
 Submitted by: **Ryan Gutierrez**
 
-**Name of your app** is an app that displays photos from their camera roll and captions for people to view and share with other users of the app. 
+**BeReal** is an app that displays photos from their camera roll and captions for people to view and share with other users of the app. 
 
 Time spent: **3** hours spent in total
 

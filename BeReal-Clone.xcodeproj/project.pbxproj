@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		48782FE329BAD155000A146B /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 48782FE229BAD155000A146B /* readme.md */; };
 		48782FE529BAE07A000A146B /* walkthrough.gif in Resources */ = {isa = PBXBuildFile; fileRef = 48782FE429BAE07A000A146B /* walkthrough.gif */; };
 		CB13E51F2913A16C008F45BB /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB13E51E2913A16C008F45BB /* PostCell.swift */; };
 		CB13E5212913B10B008F45BB /* DateFormatter+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB13E5202913B10B008F45BB /* DateFormatter+Extensions.swift */; };
@@ -28,7 +27,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		48782FE229BAD155000A146B /* readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = readme.md; path = ../../../../Desktop/readme.md; sourceTree = "<group>"; };
 		48782FE429BAE07A000A146B /* walkthrough.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = walkthrough.gif; sourceTree = "<group>"; };
 		CB13E51E2913A16C008F45BB /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
 		CB13E5202913B10B008F45BB /* DateFormatter+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DateFormatter+Extensions.swift"; sourceTree = "<group>"; };
@@ -106,7 +104,6 @@
 		CB73D388290E3B4A00C12538 = {
 			isa = PBXGroup;
 			children = (
-				48782FE229BAD155000A146B /* readme.md */,
 				CB73D393290E3B4A00C12538 /* BeReal-Clone */,
 				CB73D392290E3B4A00C12538 /* Products */,
 			);
@@ -219,7 +216,6 @@
 				48782FE529BAE07A000A146B /* walkthrough.gif in Resources */,
 				CB73D39E290E3B4C00C12538 /* Assets.xcassets in Resources */,
 				CB69974E2910F705007EDA6B /* Filmotype-Jade.otf in Resources */,
-				48782FE329BAD155000A146B /* readme.md in Resources */,
 				CB73D39C290E3B4A00C12538 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
